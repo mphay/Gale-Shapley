@@ -1,4 +1,5 @@
 # Gale-Shapley
+This algorithm was implemented to address the stable marriage problem.
 #
 Given: We are given two sets of elements of the same size and a list ordering the preference for each element.
 #
